@@ -1,0 +1,6 @@
+NOPERMS: "&6&lPloezmix Network &8| &cОшибка, у вас недостаточно прав!"
+NOTPLAYER: "&6&lPloezmix Network &8| &cОшибка, вы не являетесь игроков. Команды подобного типо могут использовать только игроки!"
+CONNECT: "&6&lPloezmix Core &8| &fПодключаем вас к серверу: {server}"
+Lobby:
+  doesnotlobby: "&6&lPloezmix Core &8| &cОшибка при подключении к лобби, возможно вы его не указали в config.yml"
+  avaiblelobby: "&6&lPloezmix Core &8| &cОшибка, вы уже находитесь в лобби!"
